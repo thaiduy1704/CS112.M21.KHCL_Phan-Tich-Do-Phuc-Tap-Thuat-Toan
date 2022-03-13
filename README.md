@@ -40,7 +40,7 @@
       <tr>
        <td>Mai Viết Dũng </td>
        <td>18520634</td>
-       <td></td>
+       <td>https://github.com/kobato-chan1912</td>
        <td>18520634@gm.uit.edu.vn</td>  
       </tr>
       <tr>
