@@ -22,7 +22,7 @@
 </h2>
 
 - **Số thứ tự nhóm:** 6
-- **Thông tin thành viên** 
+- **Thông tin thành viên**
 
 <table align="center">
       <tr>
@@ -46,19 +46,15 @@
       <tr>
        <td>Vũ Văn Minh</td>
        <td>20521621</td>
-       <td></td>
+       <td>https://github.com/mtateeeee</td>
        <td>20521621@gm.uit.edu.vn</td>  
       </tr>
 </table>
-
 
 <h2>
   Chủ đề Semminar
 </h2>
 
 - **Số thứ tự chủ đề:** 01
-- **Tên chủ đề:**  Phân tích độ phức tạp thuật toán  
+- **Tên chủ đề:** Phân tích độ phức tạp thuật toán
 - **Nội dung chi tiết:** Khái niệm, sự cần thiết, phương pháp, ký pháp biểu diễn, phân lớp thuật toán theo độ phức tạp
-
-
-
